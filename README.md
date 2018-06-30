@@ -7,7 +7,9 @@
 
 ## Instructions
 
-To get started, open `designs.js` and start building out the app's functionality.
+To get started, download this repo and open the index.html file to view the project.
+
+To explore the jquery code, open `designs.js` to checkout the functions and event listeners that make the app work.
 
 For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
 
