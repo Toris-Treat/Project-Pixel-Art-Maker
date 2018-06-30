@@ -5,7 +5,9 @@
 * [Instructions](#instructions)
 * [Contributing](#contributing)
 
-## Instructions
+Hi Welcome to my Project Repo,
+
+## Basic Instructions
 
 To get started, download this repo and open the index.html file to view the project.
 
